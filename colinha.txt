@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="descrição do site">
+	<meta name="keywords" content="palavra1, palavra2">
+	<title>Curriculo de Fulano de Tal</title>
+</head>
+<body>
+	<table align="center" border="0" >
+		<tbody>
+			<tr align="center">
+				<td>
+					<img src="banner.jpg" alt="">
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					<nav>
+						<a href="">Home</a>
+						<a href="">Perfil</a>
+						<a href="">Competências</a>
+						<a href="">Formação</a>
+						<a href="">Experiência</a>
+						<a href="">Contato</a>
+					</nav>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					<img src="avatar_masculino.png" alt="">
+					<h1>Fulano de Tal</h1>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					<h1>Perfil</h1>
+					<p>Sou um profissional apaixonado por tecnologia e inovação, sempre em busca de novos desafios que me permitam crescer e contribuir para o sucesso da organização. Tenho experiência em diversas áreas e um forte interesse por projetos de grande impacto.</p>
+
+					<p>Com uma sólida formação acadêmica e experiência profissional, meu foco é sempre em melhorar minhas habilidades técnicas e interpessoais, buscando sempre resultados de excelência.</p>
+
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					<h1>Principais Competências</h1>
+					<ul>
+						<li>Gestão de Projetos</li>
+						<li>Desenvolvimento de Software</li>
+						<li>Design de Sistemas</li>
+						<li>Inteligência Artificial</li>
+						<li>Comunicação Interpessoal</li>
+					</ul>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					<h1>Formação Academica</h1>
+
+					<h2>Faculdade A</h2>
+					<p>Curso A</p>
+
+					<h2>Faculdade B</h2>
+					<p>Curso B</p>
+
+                </td>
+			</tr>
+
+			<tr>
+				<td>
+					<h1>Experiência Profissional</h1>
+
+					<h2>
+						Desenvolvedor de Software
+						<small>- Empresa XYZ (2020 - presente)</small>
+					</h2>
+
+					<p>Responsável pelo desenvolvimento de sistemas internos e por melhorar a performance dos produtos da empresa.</p>
+
+					<h2>
+						Analista de Sistemas
+						<small>- Empresa ABC (2017 - 2020)</small>
+					</h2>
+					<p>Responsável pelo desenvolvimento de sistemas internos e por melhorar a performance dos produtos da empresa.</p>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					<h1>Contato</h1>
+
+					<table>
+						<tr>
+							<td>
+							    <img src="figura_localizacao.png" width="50" alt="">
+						    </td>
+						    <td>
+							    <p>Rua Exemplo, 123, Cidade - Estado</p>
+						    </td>
+						</tr>
+
+						<tr>
+							<td>
+								<img src="figura_telefone.png" width="50" alt="">
+							</td>
+							<td>
+								<p>(67) 993473172</p>
+							</td>
+						</tr>
+
+						<tr>
+							<td>
+								<img src="figura_email.png" width="50" alt="">
+							</td>
+
+							<td>
+								<p>
+									fulano@email.com
+								</p>
+							</td>
+						</tr>
+
+						<tr>
+							<td>
+								<img src="botao_topo.png" width="50" alt="">
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					<p>©2026. Fulano de Tal. Todos os direitos reservados.</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>
